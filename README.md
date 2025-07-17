@@ -25,6 +25,7 @@ The program will write data to the output file from the `datafile` variable in t
 (Box size) (Cutoff radius) (Timestep) (Iterations) (Sampling interval)
 (Particle i Iteration j Position, space-separated) (Particle i Iteration j Velocity, space-separated) (Particle i Type), ... | (Energy) | (Temperature)
 ...
+end
 ```
 
 The data file can then be read by an external program as appropriate.
